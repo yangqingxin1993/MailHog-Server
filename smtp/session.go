@@ -10,7 +10,7 @@ import (
 	"github.com/ian-kent/linkio"
 	"github.com/mailhog/MailHog-Server/monkey"
 	"github.com/mailhog/data"
-	"github.com/mailhog/smtp"
+	"github.com/yangqingxin/smtp"
 	"github.com/mailhog/storage"
 )
 
